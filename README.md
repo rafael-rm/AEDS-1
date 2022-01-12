@@ -15,7 +15,7 @@ Aprendizados de Algoritimos e Estruturas de Dados I no primeiro período de Enge
 * Alocação Dinâmica de Memória; 
 * Organização de Arquivos;
 
-_Docente: [Edwaldo Soares Rodrigues](http://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=CA61ACF95E04AE502CFEB911885E6B8C.buscatextual_65)_
+_Docente: [Edwaldo Soares Rodrigues](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4454835D2)_
 
 
 ## Referência
